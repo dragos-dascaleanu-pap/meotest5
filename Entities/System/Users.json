@@ -1,0 +1,19 @@
+{
+  "Id": 1,
+  "GlobalId": "c03b50fa-1379-42a8-949a-f4d359cf9bc6",
+  "BuiltInEntityType": "Users",
+  "Properties": [
+    {
+      "Name": "Username",
+      "GlobalId": "fa626952-69f8-448e-bd05-172365aff4e6"
+    },
+    {
+      "Name": "DisplayName",
+      "GlobalId": "b93f3c31-69a6-4277-9e42-73da05dfe299"
+    },
+    {
+      "Name": "Email",
+      "GlobalId": "46358013-a2f5-42b4-be2d-e515533bcef2"
+    }
+  ]
+}
